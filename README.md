@@ -11,4 +11,5 @@
 
 | 周次  | 课件 | 辅助材料 |
 |:---- |:---- |:---- 
-| 1   | [课程介绍](about-the-course.pdf) / [认识python](lecture1-intro.pdf)  | [Anaconda安装](install-anaconda.pdf) / [jupyter notebook使用](jupyter-notebook.pdf)
+| 1   | [课程介绍](about-the-course.pdf) / [认识python](lecture1-intro.pdf)  | [Anaconda安装](install-anaconda.pdf) / [jupyter notebook使用](jupyter-notebook.pdf) |
+| 2   | python基础 | [sublime text安装](sublime-intro.pdf) | 
