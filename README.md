@@ -15,3 +15,4 @@
 | 2   | [python基础](lecture2-basic.pdf) | [jupyter notebook使用](jupyter-notebook.pdf) / [sublime text安装](sublime-intro.pdf) | 
 | 3 | | [作业1](assignments/a1.md) |
 | 4 | | [演示代码](notebook/20170930.ipynb) | 
+| 5 | 文件/目录操作 | [字典](http://www.runoob.com/python/python-dictionary.html) |
