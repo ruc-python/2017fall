@@ -14,3 +14,5 @@
 | 3 | | [作业1](assignments/a1.md) |
 | 4 | | [演示代码](notebook/20170930.ipynb) | 
 | 5 | [文件/目录操作](lecture3-file.pdf) | [字典](http://www.runoob.com/python/python-dictionary.html) |
+| 7 |  | [演示代码](notebook/20171016.ipynb) |
+
