@@ -12,7 +12,8 @@
 | 1   | [课程介绍](about-the-course.pdf) / [认识python](lecture1-intro.pdf)  | [Anaconda安装](install-anaconda.pdf) / [jupyter notebook安装(windows版)](install-jupyter-win.pdf)  |
 | 2   | [python基础](lecture2-basic.pdf) | [jupyter notebook使用](jupyter-notebook.pdf) / [sublime text安装](sublime-intro.pdf) | 
 | 3 | | [作业1](assignments/a1.md) |
-| 4 | | [演示代码](notebook/20170930.ipynb) | 
+| 4 | | [课堂演示](notebook/20170930.ipynb) | 
 | 5 | [文件/目录操作](lecture3-file.pdf) | [字典](http://www.runoob.com/python/python-dictionary.html) |
-| 7 |  | [演示代码](notebook/20171016.ipynb) |
-
+| 7 |  | [课堂演示](notebook/20171016.ipynb) |
+| 8 |  | | 
+| 9 | [字符串](lecture4-string.pdf) | [课堂演示](notebook/20171030.ipynb) |
