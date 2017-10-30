@@ -17,3 +17,4 @@
 | 7 |  | [课堂演示](notebook/20171016.ipynb) |
 | 8 |  | | 
 | 9 | [字符串](lecture4-string.pdf) | [课堂演示](notebook/20171030.ipynb) |
+| 10 | excel + pandas | 课堂演示 |
