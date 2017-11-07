@@ -9,12 +9,12 @@
 
 | 周次  | 课件 | 辅助材料 |
 |:---- |:---- |:---- 
-| 1   | [课程介绍](about-the-course.pdf) / [认识python](lecture1-intro.pdf)  | [Anaconda安装](install-anaconda.pdf) / [jupyter notebook安装(windows版)](install-jupyter-win.pdf)  |
-| 2   | [python基础](lecture2-basic.pdf) | [jupyter notebook使用](jupyter-notebook.pdf) / [sublime text安装](sublime-intro.pdf) | 
-| 3 | | [作业1](assignments/a1.md) |
-| 4 | | [课堂演示](notebook/20170930.ipynb) | 
-| 5 | [文件/目录操作](lecture3-file.pdf) | [字典](http://www.runoob.com/python/python-dictionary.html) |
-| 7 |  | [课堂演示](notebook/20171016.ipynb) |
-| 8 |  | | 
-| 9 | [字符串](lecture4-string.pdf) | [课堂演示](notebook/20171030.ipynb) |
-| 10 | excel + pandas | [课堂演示](notebook/excel-code.ipynb) |
+| 1 (09-11)  | [课程介绍](about-the-course.pdf) / [认识python](lecture1-intro.pdf)  | [Anaconda安装](install-anaconda.pdf) / [jupyter notebook安装(windows版)](install-jupyter-win.pdf)  |
+| 2 (09-18)  | [python基础](lecture2-basic.pdf) | [jupyter notebook使用](jupyter-notebook.pdf) / [sublime text安装](sublime-intro.pdf) | 
+| 3 (09-25) | | [作业1](assignments/a1.md) |
+| 4 (09-30) | | [课堂演示](notebook/20170930.ipynb) | 
+| 5 (10-09) | [文件/目录操作](lecture3-file.pdf) | [字典](http://www.runoob.com/python/python-dictionary.html) |
+| 7 (10-16) |  | [课堂演示](notebook/20171016.ipynb) |
+| 8 (10-23) |  | [文件操作](notebook/find_file.ipynb), [目录操作](notebook/os_cmd.ipynb), [中文目录](notebook/run_py.ipynb) | 
+| 9 (10-30) | [字符串](lecture4-string.pdf) | [课堂演示](notebook/20171030.ipynb) |
+| 10 (11-06) | [excel数据分析](lecture5-excel.pdf) | [课堂演示](notebook/excel-code.ipynb) |
