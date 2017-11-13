@@ -18,3 +18,4 @@
 | 8 (10-23) |  | [文件操作](notebook/find_file.ipynb), [目录操作](notebook/os_cmd.ipynb), [中文目录](notebook/run_py.ipynb) | 
 | 9 (10-30) | [字符串](lecture4-string.pdf) | [课堂演示](notebook/20171030.ipynb) |
 | 10 (11-06) | [excel数据分析](lecture5-excel.pdf) | [课堂演示](notebook/excel-code.ipynb) |
+| 11 (11-13) | [lambda操作](support-lambda.pdf) | [课堂演示](notebook/lambda.ipynb) |
