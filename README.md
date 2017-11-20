@@ -20,4 +20,4 @@
 | 10 (11-06) | [excel数据分析](lecture5-excel.pdf) | [课堂演示](notebook/excel-code.ipynb) |
 | 11 (11-13) | [lambda操作](support-lambda.pdf) | [课堂演示](notebook/lambda.ipynb) |
 | 12 (11-20) | [openpyxl读写excel](lecture6-openpyxl.pdf) | [课堂演示](notebook/openpyxl-tutorial.ipynb) |
-| 13 (11-27) | [数据可视化: matplotlib绘图](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) | |
+| 13 (11-27) | 数据可视化: matplotlib绘图 | [参考资料](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) |
