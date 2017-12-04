@@ -21,7 +21,7 @@
 | 11 (11-13) | [lambda操作](support-lambda.pdf) | [课堂演示](notebook/lambda.ipynb) |
 | 12 (11-20) | [openpyxl读写excel](lecture6-openpyxl.pdf) | [课堂演示](notebook/openpyxl-tutorial.ipynb) |
 | 13 (11-27) | [数据可视化: matplotlib绘图](notebook/matplotlib-tutorial.ipynb) | [参考资料](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) |
-| 14 (12-04）| [数据建模](lecture8-data-modeling.pdf) | [如何debug](notebook/debug.ipynb) | [data-modeling](notebook/data-modeling.ipynb) |
+| 14 (12-04）| [数据建模](lecture8-data-modeling.pdf) | [如何debug](notebook/debug.ipynb), [data-modeling](notebook/data-modeling.ipynb) |
 | 15 (12-11）| | |
 | 16 (12-18）| | |
 | 17 (12-25）| | |
