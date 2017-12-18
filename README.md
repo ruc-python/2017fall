@@ -23,5 +23,5 @@
 | 13 (11-27) | [数据可视化: matplotlib绘图](notebook/matplotlib-tutorial.ipynb) | [参考资料](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) |
 | 14 (12-04）| [数据建模](lecture8-data-modeling.pdf) | [如何debug](notebook/debug.ipynb), [data-modeling notebook](notebook/data-modeling.ipynb)|
 | 15 (12-11）| 互联网应用 | [课堂演示](notebook/image-search.ipynb) |
-| 16 (12-18）| 互联网应用 | |
+| 16 (12-18）| [互联网应用](lecture9-web.pdf) | [示例代码](code/search_to_html.py) |
 | 17 (12-25）| 课程设计展示 | |
